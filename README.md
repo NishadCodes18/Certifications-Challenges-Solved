@@ -14,6 +14,7 @@ Here are my formal academic and professional training certificates.
 |------------------------|----------------------|------|
 | **Artificial Intelligence & Machine Learning** | Bhartiya Skill Development University, Jaipur | [📄 View PDF](./Artificial%20Intelligence%20%26%20Machine%20Learning%20Certification%20-%20Bhartiya%20Skill%20Development%20University,%20Jaipur_rotated-1.pdf) |
 | **Data Structures in C++ Course** | Scaler | [🖼️ View Certificate](#scaler-data-structures-certificate) |
+
 <br><hr>
 
 ## ⭐ HackerRank Skill Certifications

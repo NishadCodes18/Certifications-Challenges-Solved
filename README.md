@@ -6,14 +6,15 @@
 
 <hr>
 
-## 🎓 Institutional & Course Certifications
+## 🎓 Institutional, Event & Course Certifications
 
-Here are my formal academic and professional training certificates.
+Here are my formal academic, campus event, and professional training certificates.
 
 | Certification / Course | Issuing Organization | Link |
 |------------------------|----------------------|------|
 | **Artificial Intelligence & Machine Learning** | Bhartiya Skill Development University, Jaipur | [📄 View PDF](./Artificial%20Intelligence%20%26%20Machine%20Learning%20Certification%20-%20Bhartiya%20Skill%20Development%20University,%20Jaipur_rotated-1.pdf) |
 | **Data Structures in C++ Course** | Scaler | [🖼️ View Certificate](#scaler-data-structures-certificate) |
+| **Technophilia 2026: Prompt War (Participant)** | MIT World Peace University (MIT-WPU) | [📄 View PDF](./Certificate%20Technophilia%20Participants%20Tech__76.pdf) |
 
 <h3 id="scaler-data-structures-certificate">Scaler: Data Structures in C++</h3>
 <div align="center">

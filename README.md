@@ -46,7 +46,7 @@ Here are my formal academic, campus event, and professional training certificate
     <tr>
       <td align="center" colspan="2">
         <kbd>
-          <img src="./sql_for_beginner.jpeg" alt="Scaler SQL for Beginners Certificate" width="450">
+          <img src="./sql%20for%20beginner.jpeg" alt="Scaler SQL for Beginners Certificate" width="450">
         </kbd>
       </td>
     </tr>
@@ -87,4 +87,4 @@ Showcasing my consistent practice and rank progression on the platform.
 
 | Assessment | Platform | View Report |
 |------------|----------|-------------|
-| **C++ Online Test and Quiz – Report** | CodeChef | [📄 View Report](./C++%20Online%20Test%20and%20Quiz%20–%20Report.png) |
+| **C++ Online Test and Quiz – Report** | CodeChef | [📄 View Report](./C++%20Online%20Test%20and%20Quiz%20–%20Report.pdf) |

@@ -13,21 +13,33 @@ Here are my formal academic, campus event, and professional training certificate
 | Certification / Course | Issuing Organization | Link |
 |------------------------|----------------------|------|
 | **Artificial Intelligence & Machine Learning** | Bhartiya Skill Development University, Jaipur | [📄 View PDF](./Artificial%20Intelligence%20%26%20Machine%20Learning%20Certification%20-%20Bhartiya%20Skill%20Development%20University,%20Jaipur_rotated-1.pdf) |
-| **Data Structures in C++ Course** | Scaler | [🖼️ View Certificate](#scaler-data-structures-certificate) |
-| **Python and SQL for Data Science** | Scaler | [🖼️ View Certificate](#scaler-python-sql-certificate) |
+| **Data Structures in C++ Course** | Scaler | [🖼️ View Certificate](#scaler-certifications) |
+| **Python and SQL for Data Science** | Scaler | [🖼️ View Certificate](#scaler-certifications) |
 | **Technophilia 2026: Prompt War (Participant)** | MIT World Peace University (MIT-WPU) | [📄 View PDF](./Certificate%20Technophilia%20Participants%20Tech__76.pdf) |
 | **FOSSEE Open Source Hardware Hackathon 2026** | IIT Bombay | [📄 View PDF](./FOSSEE%20IIT%20BOMBAY%20HACKATHON%20CERTIFICATE.pdf) |
 
-<h3 id="scaler-data-structures-certificate">Scaler: Data Structures in C++</h3>
-<div align="center">
-  <img src="./scaler%20certificate.png" alt="Scaler Data Structures in C++ Certificate" width="80%">
-</div>
-
 <br>
 
-<h3 id="scaler-python-sql-certificate">Scaler: Python and SQL for Data Science</h3>
+<h3 id="scaler-certifications" align="center">🚀 Scaler Certifications</h3>
 <div align="center">
-  <img src="./scaler_python_sql.jpg" alt="Scaler Python and SQL Certificate" width="80%">
+  <table>
+    <tr>
+      <td align="center"><b>Data Structures in C++</b></td>
+      <td align="center"><b>Python and SQL for Data Science</b></td>
+    </tr>
+    <tr>
+      <td align="center">
+        <kbd>
+          <img src="./scaler%20certificate.png" alt="Scaler Data Structures in C++ Certificate" width="450">
+        </kbd>
+      </td>
+      <td align="center">
+        <kbd>
+          <img src="./scaler%20python%20and%20sql%20for%20data%20science.jpeg" alt="Scaler Python and SQL Certificate" width="450">
+        </kbd>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br><hr>
@@ -38,8 +50,8 @@ I have successfully cleared multiple skill and role assessment tests on HackerRa
 
 | Skill / Role | Level | View Document |
 |--------------|-------|---------------|
-| **Frontend Developer (React)** | Role Certification | [📄 View Certificate](./frontend_react_certificate.pdf) |
-| **Python** | Basic | [📄 View Certificate](./python_basic_certificate.pdf) |
+| **Frontend Developer (React)** | Role Certification | [📄 View Certificate](./frontend_developer_react%20certificate.pdf) |
+| **Python** | Basic | [📄 View Certificate](./python_basic%20certificate.pdf) |
 | **SQL** | Advanced | [📄 View Certificate](./sql_advanced%20certificate.pdf) |
 | **SQL** | Intermediate | [📄 View Certificate](./sql_intermediate%20certificate.pdf) |
 | **SQL** | Basic | [📄 View Certificate](./sql_basic%20certificate.pdf) |

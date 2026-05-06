@@ -14,6 +14,7 @@ Here are my formal academic, campus event, and professional training certificate
 |------------------------|----------------------|------|
 | **Artificial Intelligence & Machine Learning** | Bhartiya Skill Development University, Jaipur | [📄 View PDF](./Artificial%20Intelligence%20%26%20Machine%20Learning%20Certification%20-%20Bhartiya%20Skill%20Development%20University,%20Jaipur_rotated-1.pdf) |
 | **Data Structures in C++ Course** | Scaler | [🖼️ View Certificate](#scaler-data-structures-certificate) |
+| **Python and SQL for Data Science** | Scaler | [🖼️ View Certificate](#scaler-python-sql-certificate) |
 | **Technophilia 2026: Prompt War (Participant)** | MIT World Peace University (MIT-WPU) | [📄 View PDF](./Certificate%20Technophilia%20Participants%20Tech__76.pdf) |
 | **FOSSEE Open Source Hardware Hackathon 2026** | IIT Bombay | [📄 View PDF](./FOSSEE%20IIT%20BOMBAY%20HACKATHON%20CERTIFICATE.pdf) |
 
@@ -22,14 +23,23 @@ Here are my formal academic, campus event, and professional training certificate
   <img src="./scaler%20certificate.png" alt="Scaler Data Structures in C++ Certificate" width="80%">
 </div>
 
+<br>
+
+<h3 id="scaler-python-sql-certificate">Scaler: Python and SQL for Data Science</h3>
+<div align="center">
+  <img src="./scaler_python_sql.jpg" alt="Scaler Python and SQL Certificate" width="80%">
+</div>
+
 <br><hr>
 
-## ⭐ HackerRank Skill Certifications
+## ⭐ HackerRank Skill & Role Certifications
 
-I have successfully cleared multiple skill assessment tests on HackerRank. 
+I have successfully cleared multiple skill and role assessment tests on HackerRank. 
 
-| Skill | Level | View Document |
-|-------|-------|---------------|
+| Skill / Role | Level | View Document |
+|--------------|-------|---------------|
+| **Frontend Developer (React)** | Role Certification | [📄 View Certificate](./frontend_react_certificate.pdf) |
+| **Python** | Basic | [📄 View Certificate](./python_basic_certificate.pdf) |
 | **SQL** | Advanced | [📄 View Certificate](./sql_advanced%20certificate.pdf) |
 | **SQL** | Intermediate | [📄 View Certificate](./sql_intermediate%20certificate.pdf) |
 | **SQL** | Basic | [📄 View Certificate](./sql_basic%20certificate.pdf) |
@@ -55,8 +65,3 @@ Showcasing my consistent practice and rank progression on the platform.
 | Assessment | Platform | View Report |
 |------------|----------|-------------|
 | **C++ Online Test and Quiz – Report** | CodeChef | [📄 View Report](./C++%20Online%20Test%20and%20Quiz%20–%20Report.png) |
-
-<h3 id="C++ Online Test and Quiz – Report">CodeChef : C++ Online Test and Quiz – Report</h3>
-<div align="center">
-  <img src="./C++%20Online%20Test%20and%20Quiz%20–%20Report.png" alt="C++ Online Test and Quiz – Report" width="80%">
-</div>

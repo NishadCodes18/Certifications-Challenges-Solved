@@ -15,6 +15,7 @@ Here are my formal academic, campus event, and professional training certificate
 | **Artificial Intelligence & Machine Learning** | Bhartiya Skill Development University, Jaipur | [📄 View PDF](./Artificial%20Intelligence%20%26%20Machine%20Learning%20Certification%20-%20Bhartiya%20Skill%20Development%20University,%20Jaipur_rotated-1.pdf) |
 | **Data Structures in C++ Course** | Scaler | [🖼️ View Certificate](#scaler-certifications) |
 | **Python and SQL for Data Science** | Scaler | [🖼️ View Certificate](#scaler-certifications) |
+| **SQL for Beginners: MySQL and Database Design** | Scaler | [🖼️ View Certificate](#scaler-certifications) |
 | **Technophilia 2026: Prompt War (Participant)** | MIT World Peace University (MIT-WPU) | [📄 View PDF](./Certificate%20Technophilia%20Participants%20Tech__76.pdf) |
 | **FOSSEE Open Source Hardware Hackathon 2026** | IIT Bombay | [📄 View PDF](./FOSSEE%20IIT%20BOMBAY%20HACKATHON%20CERTIFICATE.pdf) |
 
@@ -36,6 +37,16 @@ Here are my formal academic, campus event, and professional training certificate
       <td align="center">
         <kbd>
           <img src="./scaler%20python%20and%20sql%20for%20data%20science.jpeg" alt="Scaler Python and SQL Certificate" width="450">
+        </kbd>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2"><b>SQL for Beginners: Learn SQL using MySQL and Database Design Course</b></td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+        <kbd>
+          <img src="./scaler_sql_beginners.jpeg" alt="Scaler SQL for Beginners Certificate" width="450">
         </kbd>
       </td>
     </tr>

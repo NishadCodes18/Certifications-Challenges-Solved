@@ -87,4 +87,4 @@ Showcasing my consistent practice and rank progression on the platform.
 
 | Assessment | Platform | View Report |
 |------------|----------|-------------|
-| **C++ Online Test and Quiz – Report** | CodeChef | [📄 View Report](./C++%20Online%20Test%20and%20Quiz%20–%20Report.pdf) |
+| **C++ Online Test and Quiz – Report** | CodeChef | [📄 View Report](./C++%20Online%20Test%20and%20Quiz%20–%20Report.png) |

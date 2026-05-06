@@ -46,7 +46,7 @@ Here are my formal academic, campus event, and professional training certificate
     <tr>
       <td align="center" colspan="2">
         <kbd>
-          <img src="./scaler_sql_beginners.jpeg" alt="Scaler SQL for Beginners Certificate" width="450">
+          <img src="./sql_for_beginner.jpeg" alt="Scaler SQL for Beginners Certificate" width="450">
         </kbd>
       </td>
     </tr>
